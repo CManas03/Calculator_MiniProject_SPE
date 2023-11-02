@@ -1,1 +1,2 @@
-localhost = cmanas03
+[localhost]
+127.0.0.1 ansible_connection=local ansible_user=cmanas03
