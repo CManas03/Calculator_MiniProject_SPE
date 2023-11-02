@@ -1,1 +1,1 @@
-localhost ansible_user = cmanas03
+localhost = cmanas03
