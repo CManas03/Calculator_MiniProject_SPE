@@ -1,0 +1,10 @@
+2023-11-04 01:07:27.022 [main] INFO  org.example.Main - Start of Execution
+2023-11-04 01:07:29.718 [main] INFO  org.example.Main - START OP: Add
+2023-11-04 01:07:29.726 [main] INFO  org.example.Main - END OP: Add
+2023-11-04 01:07:30.978 [main] INFO  org.example.Main - START OP: Add
+2023-11-04 01:07:30.978 [main] INFO  org.example.Main - END OP: Add
+2023-11-04 01:07:31.466 [main] INFO  org.example.Main - START OP: Add
+2023-11-04 01:07:31.466 [main] INFO  org.example.Main - END OP: Add
+2023-11-04 01:07:32.376 [main] INFO  org.example.Main - START OP: Add
+2023-11-04 01:07:32.377 [main] INFO  org.example.Main - END OP: Add
+2023-11-04 01:07:33.450 [main] INFO  org.example.Main - End of Execution
